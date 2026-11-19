@@ -2,11 +2,14 @@ course:
   short_title: "PSL Week StatPhys&ML"
   full_title: "Statistical Physics and Machine Learning"
 
-current: "2025-2026"
+current: "2026-2027"
 
 editions:
+  - id: "2026-2027"
+    label: "2026-2027"
+    url: "/editions/2026-2027/"
   - id: "2025-2026"
-    label: "2025-2026 (current)"
+    label: "2025-2026"
     url: "/editions/2025-2026/"
   - id: "2024-2025"
     label: "2024/2025"
